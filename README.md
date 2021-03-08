@@ -10,6 +10,6 @@ This project uses DCGAN to generate fake face images of celebrities, the model w
 
 The model was trained for 150 epochs and then it was able to generate decent fake face images, some of them are given below.
 
-<img src="https://github.com/Therickysen08/Face_generation_using_DCGAN/blob/main/generated_faces.jpg" width="240" height="240" />
+<img src="https://github.com/Therickysen08/Face_generation_using_DCGAN/blob/main/generated_faces/fake_faces.jpg" width="400" height="400"/>
 
 
