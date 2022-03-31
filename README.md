@@ -5,7 +5,7 @@ Generative modeling is an unsupervised learning task in machine learning that in
 ## DCGAN Architecture
 The network architecture is shown in the below figure.
 
-<img src="https://gluon.mxnet.io/_images/dcgan.png" width="800" height="230"/>
+<img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-01_at_11.27.51_PM_IoGbo1i.png" width="800" height="230"/>
 
 The Network hyperparameters are,
 
